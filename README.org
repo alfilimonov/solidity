@@ -1,0 +1,12 @@
+# Final work
+The entire work located in this repository. 
+
+*Filename* : filimonov.sol 
+|----------+----------------|
+| Property | Value          |
+|----------+----------------|
+| Author   | Filimonov Alex |
+| Variant  | 2              |
+| Teacher  | Dmitry Senotov |
+|----------+----------------|
+
