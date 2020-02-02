@@ -1,4 +1,4 @@
-# *Final work*
+* *Final work*
 
 |------------+----------------|
 | *Variant*  | 2              |
