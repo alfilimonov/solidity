@@ -1,14 +1,12 @@
 # *Final work*
 
+|------------+----------------|
+| *Variant*  | 2              |
+| *Teacher*  | Dmitry Senotov |
+| *Author*   | Filimonov Alex |
+| *Filename* | filimonov.sol  |
+|------------+----------------|
+
 This work is made in the *RemixIDE* and compatible with all the *SOLC* version from *0.4.0* up to *0.5.9*
 The entire work stored in this repository. 
-
-*Filename* : filimonov.sol 
-|-----------+----------------|
-| Property  | Value          |
-|-----------+----------------|
-| *Author*  | Filimonov Alex |
-| *Variant* | 2              |
-| *Teacher* | Dmitry Senotov |
-|-----------+----------------|
 
