@@ -4,11 +4,11 @@ This work is made in the *RemixIDE* and compatible with all the *SOLC* version f
 The entire work stored in this repository. 
 
 *Filename* : filimonov.sol 
-|----------+----------------|
-| Property | Value          |
-|----------+----------------|
-| *Author* | Filimonov Alex |
-| *Variant*| 2              |
-| *Teacher*| Dmitry Senotov |
-|----------+----------------|
+|-----------+----------------|
+| Property  | Value          |
+|-----------+----------------|
+| *Author*  | Filimonov Alex |
+| *Variant* | 2              |
+| *Teacher* | Dmitry Senotov |
+|-----------+----------------|
 
