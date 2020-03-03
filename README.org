@@ -1,8 +1,6 @@
 * *Final work*
 
 |------------+----------------|
-| *Variant*  | 2              |
-| *Teacher*  | Dmitry Senotov |
 | *Author*   | Filimonov Alex |
 | *Filename* | filimonov.sol  |
 |------------+----------------|
